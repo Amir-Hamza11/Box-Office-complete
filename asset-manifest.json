@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Box-Office-complete/static/css/main.b2586571.css",
-    "main.js": "/Box-Office-complete/static/js/main.4c6a3550.js",
+    "main.js": "/Box-Office-complete/static/js/main.717c3180.js",
     "static/js/787.6e354c4d.chunk.js": "/Box-Office-complete/static/js/787.6e354c4d.chunk.js",
     "index.html": "/Box-Office-complete/index.html",
     "main.b2586571.css.map": "/Box-Office-complete/static/css/main.b2586571.css.map",
-    "main.4c6a3550.js.map": "/Box-Office-complete/static/js/main.4c6a3550.js.map",
+    "main.717c3180.js.map": "/Box-Office-complete/static/js/main.717c3180.js.map",
     "787.6e354c4d.chunk.js.map": "/Box-Office-complete/static/js/787.6e354c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.4c6a3550.js"
+    "static/js/main.717c3180.js"
   ]
 }
